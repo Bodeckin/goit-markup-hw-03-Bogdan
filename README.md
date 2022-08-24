@@ -1,2 +1,2 @@
-# goit-markup-hw-02-Bogdan
-2 домашня робота
+# goit-markup-hw-03-Bogdan
+3 домашня робота
