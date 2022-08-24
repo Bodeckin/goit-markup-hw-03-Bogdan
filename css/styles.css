@@ -10,8 +10,9 @@
   --footer-color: #2f303a;
   --button-color: #f5f4fa;
 }
-
-
+.header-container {
+  display: flex;
+}
 /* Main nav*/
 
 .site-nav,
@@ -96,11 +97,10 @@ body {
   padding-right: 15px;
 }
 /* Header */
-
-/* .container {
+.header-container {
   display: flex;
   align-items: center;
-} */
+}
 
 .header-studio {
   margin-right: 93px;
@@ -291,7 +291,7 @@ li {
 /* Фон футера */
 
 .footer {
-  width: 1600px;
+  width: 100%;
   height: 252px;
   background: #2f303a;
 
