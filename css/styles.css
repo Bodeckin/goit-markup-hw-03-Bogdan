@@ -155,7 +155,6 @@ body {
   display: flex;
   justify-content: center;
   gap: 8px;
-  margin-bottom: 34px;
 }
 
 .menu-images {
@@ -392,7 +391,7 @@ li {
   line-height: 1.7;
   color: var(--secondary-color);
   letter-spacing: 0.03em;
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
   padding-left: 24px;
   padding-right: 24px;
 }
